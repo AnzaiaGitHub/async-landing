@@ -4,7 +4,7 @@
   "description": "A landing page for the platzi async course",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-page -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
